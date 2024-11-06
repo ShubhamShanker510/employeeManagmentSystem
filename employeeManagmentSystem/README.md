@@ -28,3 +28,8 @@
 
     2. set the data in loalstorage and also getting the data from localstorage in loclaStorage.jsx file 
 
+# step 3 Passing data using useContext
+ 
+    1. Setting up Auth provider and wrapping in main file 
+
+    2. redirecting to admin or employee dashboard according to thier credentials
